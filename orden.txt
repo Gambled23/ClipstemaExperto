@@ -1,0 +1,1 @@
+(assert (orden (productoId 11) (tarjetaId 51) (clienteId 41) (cantidad 2)))

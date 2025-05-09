@@ -1,0 +1,6 @@
+(clear)
+(load "templates.clp")
+(batch* "facts.clp")
+(reset)
+(load "rules.clp")
+(run)
